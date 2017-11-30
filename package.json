@@ -1,10 +1,9 @@
 {
   "name": "wrapper",
   "main": "./lib/wrapper",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Wrap text in anything",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "wrapper:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
