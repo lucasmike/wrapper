@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "wrapper:toggle"
   },
-  "repository": "https://github.com/atom/wrapper",
+  "repository": "https://github.com/lucasmike/wrapper",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
