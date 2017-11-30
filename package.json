@@ -12,5 +12,15 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "configSchema": {
+    "tag": {
+      "type": "string",
+      "default": "p"
+    },
+    "attribute": {
+      "type": "string",
+      "default": ""
+    }
+  }
 }
