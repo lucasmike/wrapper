@@ -5,7 +5,7 @@
   "description": "Wrap text in anything",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "wrapper:toggle"
+    "atom-workspace": "wrapper:wrap"
   },
   "repository": "https://github.com/lucasmike/wrapper",
   "license": "MIT",
