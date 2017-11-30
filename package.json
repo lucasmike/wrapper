@@ -1,7 +1,7 @@
 {
   "name": "wrapper",
   "main": "./lib/wrapper",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "Wrap text in anything",
   "keywords": [],
   "activationCommands": {
