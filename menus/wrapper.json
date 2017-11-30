@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle wrapper",
-        "command": "wrapper:toggle"
+        "label": "Wrapper",
+        "command": "wrapper:wrap"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "wrapper",
+          "label": "Wrapper",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "wrapper:toggle"
+              "label": "Wrap",
+              "command": "wrapper:wrap"
             }
           ]
         }
